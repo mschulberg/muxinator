@@ -1,0 +1,8 @@
+default:
+    rows: 2
+    columns: 5
+    server: cbp.anduril.com:443
+    logfile: log.tmuxify
+    loglevel: DEBUG
+    session_name: tmuxify
+    directory: /Users/maxschulberg/muxlogs
